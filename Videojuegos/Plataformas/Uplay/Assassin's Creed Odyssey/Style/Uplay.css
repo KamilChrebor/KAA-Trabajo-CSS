@@ -1,0 +1,53 @@
+marquee{
+    direction: left;
+    color:lightgrey;
+    font-size: 50px;
+    font-family: Georgia;
+}
+p{
+    font-size: 25px;
+    color: rgb(0, 0, 0);
+    font-family: Georgia;
+}
+body{
+    background-image: url(https://www.gratistodo.com/wp-content/uploads/2018/06/Assassins-Creed-Odyssey-Wallpapers-4.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    color: #FFFFFF;
+}
+table, td, tr, th{
+    border:2px solid azure;
+    color:whitesmoke;      
+}
+table{
+    border-collapse: collapse;
+    font-size: 20px;
+}
+td{
+    font-size: 30px;
+}
+div{
+    font-size: 25px;
+    color: lightseagreen;
+    font-family: Georgia;
+    background-color: white;
+}
+ul,li{
+    color: white;
+    font-size: 20px;
+    font-family: monospace;
+}
+a:link{
+    color:rgb(0, 255, 191)
+}
+a:hover{
+    color:rgb(174, 240, 168);
+    text-decoration:underline
+}
+a:visited{
+    color:rgb(243, 117, 117)
+}
+a:active{
+    color:lime
+}

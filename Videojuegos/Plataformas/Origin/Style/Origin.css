@@ -1,0 +1,53 @@
+marquee{
+    direction: left;
+    color:rgb(226, 140, 153);
+    font-size: 50px;
+    font-family: Georgia;
+}
+p{
+    font-size: 25px;
+    color: rgb(0, 0, 0);
+    font-family: Georgia;
+}
+body{
+    background-image: url(https://www.gamespace.com/wp-content/uploads/2020/09/Electronic-Arts-is-Ditching-Origin-for-EA-Desktop.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    color: #FFFFFF;
+}
+table, td, tr, th{
+    border:2px solid azure;
+    color:whitesmoke;      
+}
+table{
+    border-collapse: collapse;
+    font-size: 20px;
+}
+td{
+    font-size: 30px;
+}
+ul,li{
+    color: lightcyan;
+    font-size: 20px;
+    font-family: serif;
+}
+div{
+    font-size: 25px;
+    color: rgb(133, 174, 227);
+    font-family: Georgia;
+    background-color: white;
+}
+a:link{
+    color:rgb(23, 15, 100)
+}
+a:hover{
+    color:rgb(174, 240, 168);
+    text-decoration:underline
+}
+a:visited{
+    color:rgb(255, 255, 255)
+}
+a:active{
+    color:lime
+}

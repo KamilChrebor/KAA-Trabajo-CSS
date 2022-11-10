@@ -1,0 +1,48 @@
+marquee{
+    direction: left;
+    color:lightgrey;
+    font-size: 50px;
+    font-family: Georgia;
+}
+p{
+    font-size: 25px;
+    color: rgb(0, 0, 0);
+    font-family: Georgia;
+}
+body{
+    background-image: url(http://cdn.akamai.steamstatic.com/steamcommunity/public/images/items/383690/ba42e43828c826da1099caff358423b555f47dbc.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    color: #FFFFFF;
+}
+table, td, tr, th{
+    border:2px solid azure;
+    color:whitesmoke;      
+}
+table{
+    border-collapse: collapse;
+    font-size: 20px;
+}
+td{
+    font-size: 30px;
+}
+div{
+    font-size: 25px;
+    color: lightseagreen;
+    font-family: Georgia;
+    background-color: white;
+}
+a:link{
+    color:rgb(0, 255, 191)
+}
+a:hover{
+    color:rgb(174, 240, 168);
+    text-decoration:underline
+}
+a:visited{
+    color:rgb(243, 117, 117)
+}
+a:active{
+    color:lime
+}

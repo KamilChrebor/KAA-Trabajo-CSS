@@ -1,0 +1,40 @@
+p{
+    color:lightgoldenrodyellow;
+    font-size: 20px;
+    font-family: Arial;
+}
+body{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPCoJSC0gOiJIM4Z_lNRa45yNqV5dovxSqXli4YFTon0UqbHAAShY9-gmqi86sU280020&usqp=CAU);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    color: #FFFFFF;
+}
+table, td, tr, th{
+    border:2px solid azure;
+    color:whitesmoke;      
+}
+table{
+    border-collapse: collapse;
+    font-size: 20px;
+}
+td{
+    font-size: 30px;
+}
+div{
+    text-align: center;
+    font-size: 15px;
+}
+a:link{
+    color:rgb(0, 255, 191)
+}
+a:hover{
+    color:rgb(174, 240, 168);
+    text-decoration:underline
+}
+a:visited{
+    color:rgb(243, 117, 117)
+}
+a:active{
+    color:lime
+}
