@@ -16,3 +16,7 @@ body{
 a:visited{
      color:#e74c3c 
 }
+
+a:hover{
+    color: #3498db 
+}
