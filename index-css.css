@@ -1,10 +1,11 @@
 body{
-  background-image:url:(https://png.pngtree.com/thumb_back/fw800/background/20210907/pngtree-video-games-console-image_833781.jpg);
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-  background-size: cover;
-   text-align: center;
-   font-size: 55px;
-   font-family: fantasy;
-   list-style-type:circle ;
+    background-image: url(https://png.pngtree.com/thumb_back/fw800/background/20210907/pngtree-video-games-console-image_833781.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    color: #FFFFFF;
+    text-align: center;
+    font-size: 55px;
+    font-family: fantasy;
+    list-style-type:circle;
 }
