@@ -4,3 +4,10 @@ body{
   background-attachment: fixed;
   background-size: cover;
 }
+head {
+   text-align: center;
+   font-size: 55px;
+   font-family: fantasy;
+   list-style-type:circle ;
+   color: #000000;
+}
