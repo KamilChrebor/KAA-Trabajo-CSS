@@ -9,3 +9,10 @@ body{
     font-family: fantasy;
     list-style-type:circle;
 }
+ a:link {
+     color: #58d68d
+}
+
+a:visited{
+     color:#e74c3c 
+}
