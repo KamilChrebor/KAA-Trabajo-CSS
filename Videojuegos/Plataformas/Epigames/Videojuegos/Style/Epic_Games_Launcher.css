@@ -46,3 +46,9 @@ a:visited{
 a:active{
     color:lime
 }
+dt {
+    font: 55px serif;
+}
+dl{
+    background-color:rgba(0,0,0,0.4)
+}
