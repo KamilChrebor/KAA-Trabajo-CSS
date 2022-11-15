@@ -26,15 +26,43 @@ div{
     font-size: 15px;
 }
 a:link{
-    color:rgb(0, 255, 191)
+    color:rgb(0, 255, 191);
 }
 a:hover{
     color:rgb(174, 240, 168);
     text-decoration:underline
 }
 a:visited{
-    color:rgb(243, 117, 117)
+    color:rgb(243, 117, 117);
 }
 a:active{
-    color:lime
+    color:lime;
+}
+
+#menu {
+  font-family: Arial;
+}
+
+#menu p {
+  margin:0px;
+  padding:0px;
+}
+
+#menu a {
+  display: block;
+  padding: 5px;
+  width: 160px;
+  background-color:  #d2b4de ;
+  border-bottom: 1px solid #eeeeee;
+  text-align:center;
+}
+
+#menu a:link, #menu a:visited {
+  color: #ff0000;
+  text-decoration: none;
+}
+
+#menu a:hover {
+  background-color:  #03ff0f ;
+  color:  #031aff ;
 }
