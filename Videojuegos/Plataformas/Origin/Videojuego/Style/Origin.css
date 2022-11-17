@@ -51,3 +51,8 @@ a:visited{
 a:active{
     color:lime
 }
+span{
+    backgraound-color: rgba(0,0,0,0.4);
+    font: 45px fantasy;
+    text-color: #FFFFFF
+}
