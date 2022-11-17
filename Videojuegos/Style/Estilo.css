@@ -4,11 +4,11 @@ p{
     
 }
 body{
-    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPCoJSC0gOiJIM4Z_lNRa45yNqV5dovxSqXli4YFTon0UqbHAAShY9-gmqi86sU280020&usqp=CAU);
+    background-image: url(https://images.hdqwalls.com/wallpapers/gamer-zone-4k-9u.jpg);
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
-    color: #FFFFFF;
+    background-position: center;
 }
 table, td, tr, th{
     border:2px solid azure;
