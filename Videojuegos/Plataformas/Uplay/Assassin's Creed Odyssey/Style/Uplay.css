@@ -33,11 +33,10 @@ div{
     font-family: Georgia;
     background-color: white;
 }
-li{
+ul,li{
     color: white;
     font-size: 20px;
     font-family: monospace;
-    list-style-type: square;
 }
 a:link{
     color:rgb(0, 255, 191)
