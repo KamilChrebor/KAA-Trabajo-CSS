@@ -20,3 +20,8 @@ a:visited{
 a:hover{
     color: #3498db 
 }
+p{
+    border-top: lightblue 5px dashed;
+    border-left: lightblue 5px dashed;
+    border-right: lightblue 5px dashed;
+}
