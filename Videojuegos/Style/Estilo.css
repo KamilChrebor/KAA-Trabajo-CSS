@@ -41,6 +41,11 @@ a:active{
 
 #menu {
   font-family: Arial;
+  position: absolute;
+  top: 250px;
+  right: 650px;
+  width: 100px;
+  height: 100px;
 }
 
 #menu p {
