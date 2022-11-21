@@ -37,6 +37,7 @@ div{
     color: rgb(133, 174, 227);
     font-family: Georgia;
     position: relative;
+    background-color: white;
 }
 a:link{
     color:rgb(23, 15, 100)
