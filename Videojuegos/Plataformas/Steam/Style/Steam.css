@@ -28,7 +28,8 @@ td{
     font-size: 30px;
 }
 div{
-    font-size: 25px;
+    font-size: 1.5em;
+    position: relative;
     color: lightseagreen;
     font-family: Georgia;
     background-color: white;
