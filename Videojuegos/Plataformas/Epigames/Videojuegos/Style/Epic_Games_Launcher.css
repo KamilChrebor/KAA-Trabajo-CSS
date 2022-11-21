@@ -52,10 +52,11 @@ dt {
 }
 dl{
     background-color:rgba(0,0,0,0.4);
-    list-style-type: georgian;
-    
 }
-
+dt{
+    list-style-type: georgian;
+    color: white;
+}
 h1{
     text-align: center;
 }
