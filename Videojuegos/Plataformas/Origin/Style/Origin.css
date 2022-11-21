@@ -33,10 +33,10 @@ ul,li{
     font-family: serif;
 }
 div{
-    font-size: 25px;
+    font-size: 1.5em;
     color: rgb(133, 174, 227);
     font-family: Georgia;
-    background-color: white;
+    position: relative;
 }
 a:link{
     color:rgb(23, 15, 100)
