@@ -51,7 +51,9 @@ dt {
     font: 55px serif;
 }
 dl{
-    background-color:rgba(0,0,0,0.4)
+    background-color:rgba(0,0,0,0.4);
+    list-style-type: georgian;
+    
 }
 
 h1{
