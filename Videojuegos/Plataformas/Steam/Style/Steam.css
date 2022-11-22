@@ -4,11 +4,6 @@ marquee{
     font-size: 50px;
     font-family: Georgia;
 }
-p{
-    font-size: 25px;
-    color: rgb(0, 0, 0);
-    font-family: Georgia;
-}
 body{
     background-image: url(http://cdn.akamai.steamstatic.com/steamcommunity/public/images/items/383690/ba42e43828c826da1099caff358423b555f47dbc.jpg);
     background-repeat: no-repeat;
